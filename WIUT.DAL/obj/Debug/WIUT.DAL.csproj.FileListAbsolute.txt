@@ -1,0 +1,25 @@
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojResolveAssemblyReference.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojResolveAssemblyReference.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll.config
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojAssemblyReference.cache
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb

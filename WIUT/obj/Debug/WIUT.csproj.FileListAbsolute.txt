@@ -1,0 +1,53 @@
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.exe.config
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.Form1.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.Form1.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.exe
+e:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\obj\Debug\WIUT.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\bin\Debug\WIUT.exe.config
+E:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\bin\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 14\WIUT\WIUT\bin\Debug\WIUT.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.AboutForm.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.ParentForm.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.exe.config
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.sdf
+e:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\System.Data.SqlServerCe.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\bin\Debug\WIUT.DAL.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 15\WIUT\WIUT\obj\Debug\WIUT.csproj.CopyComplete
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.sdf
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.exe.config
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.exe
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.pdb
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.DAL.dll
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\System.Data.SqlServerCe.dll
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.DAL.pdb
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\bin\Debug\WIUT.DAL.dll.config
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.csprojAssemblyReference.cache
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.AboutForm.resources
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.ParentForm.resources
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.csproj.CopyComplete
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.exe
+D:\Users\00008699\Downloads\WIUT-17\WIUT\WIUT\obj\Debug\WIUT.pdb
